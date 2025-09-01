@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(24,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(51,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(75,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(100,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(111,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(122,13): warning C4018: '>': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(146,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(159,13): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(170,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(198,21): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(224,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(242,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(265,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(289,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(325,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(335,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(346,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\zinov\source\repos\custom vector (29.06.25)\custom vector (29.06.25)\main.cpp(407,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  custom vector (29.06.25).vcxproj -> C:\Users\zinov\source\repos\custom vector (29.06.25)\x64\Debug\custom vector (29.06.25).exe
